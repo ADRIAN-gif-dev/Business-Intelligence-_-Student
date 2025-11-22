@@ -1,7 +1,8 @@
 # EPIC Story: Amazon Electronics Data Sales Analysis
 
 ## 1. Engage 
-> The Business Problem Realized
+**The Business Problem Realized**
+
 Our analysis focuses on understanding how different electronics products perform on Amazon, with the goal of improving inventory and pricing decisions. The electronics market is crowded, especially with accessories such as cables and adapters, and we want to determine which products truly drive customer interest and how pricing affects customer satisfaction.
 
 > Build-up question:
@@ -10,7 +11,8 @@ Our analysis focuses on understanding how different electronics products perform
 ---
 
 ## 2. Present
-> The Data Visuals
+**The Data Visuals**
+
 Using the Amazon Sales dataset, our team generated several visualizations to highlight the most essential patterns in product categories, customer engagement, pricing, and ratings.
 
 ### A. Product Dominance
@@ -37,7 +39,7 @@ Using the Amazon Sales dataset, our team generated several visualizations to hig
 ---
 
 ## 3. Interpret
-> What the Patterns Mean
+**What the Patterns Mean**
 
 ### 1. Accessories Drive Customer Activity
 Low-cost products, especially cables, play a major role in attracting customers. They may not generate high revenue per item, but they consistently bring traffic to the store due to their volume.
@@ -51,7 +53,8 @@ Most products perform well in terms of ratings. Any product below 3.5 stars stan
 ---
 
 ## 4. Conclude 
-> Recommendations
+**Recommendations**
+
 Based on the findings, the following actions are recommended:
 
 ### Increase the quantity of high-demand accessories
